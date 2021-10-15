@@ -1,0 +1,2 @@
+# sprenz
+static website
