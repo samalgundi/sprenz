@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+contentdir    = "content"
+languageCode = "en-us"
+title = "Sebastian Sprenz"
+theme = "paperback"
+disableKinds = ["section", "taxonomy", "term", "RSS"]
+
+[params]
+  mainSections = ["post"]
