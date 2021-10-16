@@ -2,7 +2,7 @@ baseURL = "https://cos-static-web-hosting-public-bucket.s3-web.eu-de.cloud-objec
 contentdir    = "content"
 languageCode = "en-us"
 title = "Sebastian Sprenz"
-theme = "paperback"
+theme = "ananke"
 disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 [params]
